@@ -7,7 +7,7 @@
 ## git 安装：
      从 [git 官网](http://git-scm.com/)下载相应的客户端版本，命令行使用请配置环境变量。
 ## git 使用：
-  * clone 项目： git clone https://tomyang@bitbucket.org/bg3_mobile_java/demo.git 
+  * clone 项目： git clone https://github.com/yangding39/demo.git
   * 修改代码
   * 查看改动的文件： git status
   * 提交代码
